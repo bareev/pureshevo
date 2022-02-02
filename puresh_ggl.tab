@@ -1,0 +1,18 @@
+!table
+!version 300
+!charset Neutral
+
+Definition Table
+  File "puresh_ggl.jpg"
+  Type "RASTER"
+  (42.71277308, 55.74169827) (0, 0) Label "Point 1",
+  (42.81054497, 55.68412332) (9113, 9526) Label "Point 2",
+  (42.71277308, 55.68412332) (0, 9526) Label "Point 3",
+  (42.81054497, 55.74169827) (9113, 0) Label "Point 4",
+  (42.76166439, 55.71292140) (4556, 4763) Label "Point 5",
+  (42.76166439, 55.74169827) (4556, 0) Label "Point 6",
+  (42.71277308, 55.71292140) (0, 4763) Label "Point 7",
+  (42.81054497, 55.71292140) (9113, 4763) Label "Point 8",
+  (42.76166439, 55.68412332) (4556, 9526) Label "Point 9"
+ CoordSys Earth Projection 10, 157, 7, 0
+ Units "degree"

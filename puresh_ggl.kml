@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml><GroundOverlay><name>puresh_ggl.jpg</name><color>88ffffff</color><Icon>
+<href>puresh_ggl.jpg</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north>55.7416982679398</north>
+<south>55.6841233151772</south>
+<east>42.8105449676514</east>
+<west>42.7127730846405</west>
+</LatLonBox></GroundOverlay></kml>
